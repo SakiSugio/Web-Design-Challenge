@@ -1,4 +1,22 @@
+.navigation {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
 
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+  }
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+
+
+p {
+    font-family: "Times New Roman", Times, serif;
+  }
 
 img {
     max-width: 100%;
