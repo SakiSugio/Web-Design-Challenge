@@ -1,20 +1,169 @@
-
+​
 h2 {
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
   }
-
+​
 h3 {
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
 }
-
-
+​
+​
 p {
     font-family: "Times New Roman", Times, serif;
   }
-
+​
 img {
     max-width: 100%;
     height: auto;
+  }
+​
+  .navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    }
+    
+    h1 {
+      color: #01a5b7;
+      }
+
+  h2 {
+    color: #01a5b7;
+    }
+    
+    
+  h3 {
+    color: #01a5b7;
+    }
+  
+  
+  @media (max-width: 767.98px) { 
+    nav.navbar {
+      background-color: #01a5b7;
+    }
+  }
+  
+  
+  @media (max-width: 767.98px) { 
+    #navbardrop {
+      background-color: #D0D0D0;
+      padding-left: 5px
+    }
+  }
+  
+  
+  .btn:focus {
+    box-shadow: 0 0 0 0 #FFFFFF;
+    }
+    
+    
+  .dropdown {
+    background-color: #FFFFFF;
+    }
+  
+  
+  #dropdownMenuButton {
+    padding-left: 0px;
+    }
+    
+    
+  .navbar-brand {
+    background-color: #01a5b7;
+    padding-left: 5px;
+    padding-right: 5px;
+    }
+  
+  .navbar-nav {
+    background-color: #FFFFFF;
+    white-space:
+    }
+    
+    
+  img#desc_img {
+    float: left;
+    max-width: 60%;
+    max-height:  60%;
+    width: auto;
+    height: auto;
+    }
+    
+    
+  img.click_img {
+    float: left;
+    max-width: 45%;
+    }
+  
+    
+    
+  div.test {
+      background-color: #FFFFFF;
+    }
+    
+    
+  div.col-md-1 {
+    background-color: #e9ecef;
+    max-width: 4%;
+    }
+    
+    
+  div.col-md-4 {
+    background-color: #FFFFFF;
+    }
+  
+  
+  div.col-md-7 {
+    background-color: #FFFFFF;
+    }
+    
+    
+  div.col-md-12 {
+    background-color: #FFFFFF;
+    }
+    
+  
+  
+    
+    
+  img#viz_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+    max-height:  80%;
+    width: auto;
+    height: auto;
+    }
+    
+    
+  #p1 {
+    position: sticky;
+    top: 550px;
+    left: 450px;
+    }
+    
+    
+  w3-card-4.a.img {
+    float: left;
+    }
+    
+  .box {
+  float: left;
+    }
+    
+  
+  header {
+    color: #01a5b7;
+    }
+    
+  div.dropdown {
+    float: right;
+    }
+  
+    
+  @media (max-width: 767.98px) { 
+    div.box {
+      display: block!important;
+      width: 100%;
+    }
   }
